@@ -1,4 +1,3 @@
-
 /*
 var caution = false
 function setCookie(name, value, expires, path, domain, secure) {
