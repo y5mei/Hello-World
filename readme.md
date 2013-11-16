@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+
 楼主滚回来了，老师给答案了，这两天忙着申学校没时间打出来，贱晾。。。
 原题目是这个样子的：
 
